@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace HC
 {
-    public partial class Form1 : Form
+    public partial class FrmPatient : Form
     {
-        public Form1()
+        public FrmPatient()
         {
             InitializeComponent();
         }
